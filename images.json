@@ -1,0 +1,846 @@
+{
+  "repo": "https://github.com/levi0175/App837-AI-homedecor",
+  "total": 140,
+  "images": [
+    {
+      "id": 1,
+      "category": "Bath room",
+      "name": "Art Deco Bathroom",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Bath%20room/art-deco-black-white-bathroom-checkerboard-tile.jpg"
+    },
+    {
+      "id": 2,
+      "category": "Bath room",
+      "name": "Boho Yellow Bathroom",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Bath%20room/boho-yellow-bathroom-plant-filled-clawfoot-tub.jpg"
+    },
+    {
+      "id": 3,
+      "category": "Bath room",
+      "name": "Eclectic Orange Bathroom",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Bath%20room/eclectic-orange-bathroom-tile-brass-fixtures.jpg"
+    },
+    {
+      "id": 4,
+      "category": "Bath room",
+      "name": "Minimalist Wood Bathroom",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Bath%20room/minimalist-wood-bathroom-square-tile-glass-shower.jpg"
+    },
+    {
+      "id": 5,
+      "category": "Bath room",
+      "name": "Modern Yellow Bathroom",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Bath%20room/modern-bathroom-yellow-walls-bathtub.jpg"
+    },
+    {
+      "id": 6,
+      "category": "Bath room",
+      "name": "Modern Pink Bathroom",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Bath%20room/modern-pink-bathroom-wood-vanity-glass-shower.jpg"
+    },
+    {
+      "id": 7,
+      "category": "Bath room",
+      "name": "Monochrome Green Bathroom",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Bath%20room/monochromatic-green-bathroom-natural-light-brass-accents.jpg"
+    },
+    {
+      "id": 8,
+      "category": "Bath room",
+      "name": "Tropical Bathroom",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Bath%20room/tropical-bathroom-freestanding-tub-ornate-mirror.jpg"
+    },
+    {
+      "id": 9,
+      "category": "Bath room",
+      "name": "Vintage Mint Bathroom",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Bath%20room/vintage-mint-green-bathroom-floral-tile-mirror.jpg"
+    },
+    {
+      "id": 10,
+      "category": "Bedroom",
+      "name": "Attic Yellow Bedroom",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Bedroom/attic-bedroom-yellow-circular-window-themed-decor.jpg"
+    },
+    {
+      "id": 11,
+      "category": "Bedroom",
+      "name": "Bright White Bedroom",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Bedroom/bright-bedroom-white-bed-pink-pillows.jpg"
+    },
+    {
+      "id": 12,
+      "category": "Bedroom",
+      "name": "Contemporary Wood Bedroom",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Bedroom/contemporary-bedroom-wood-slats-gray-chair.jpg"
+    },
+    {
+      "id": 13,
+      "category": "Bedroom",
+      "name": "Futuristic Orange Bedroom",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Bedroom/futuristic-bedroom-orange-accent-round-window-view.jpg"
+    },
+    {
+      "id": 14,
+      "category": "Bedroom",
+      "name": "Kids Pastel Bedroom",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Bedroom/kids-bedroom-desk-colorful-art-pastel-bedding.jpg"
+    },
+    {
+      "id": 15,
+      "category": "Bedroom",
+      "name": "Luxury Hotel Bedroom",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Bedroom/luxury-hotel-bedroom-wood-accents-large-window.jpg"
+    },
+    {
+      "id": 16,
+      "category": "Bedroom",
+      "name": "Minimalist Wood Bedroom",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Bedroom/minimalist-bedroom-light-wood-gray-nightstand.jpg"
+    },
+    {
+      "id": 17,
+      "category": "Bedroom",
+      "name": "Minimalist White Bedroom",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Bedroom/minimalist-bedroom-white-plant-filled-large-window.jpg"
+    },
+    {
+      "id": 18,
+      "category": "Bedroom",
+      "name": "Modern Concrete Bedroom",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Bedroom/modern-bedroom-concrete-accent-wood-paneling.jpg"
+    },
+    {
+      "id": 19,
+      "category": "Bedroom",
+      "name": "Modern Geometric Bedroom",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Bedroom/modern-bedroom-geometric-wall-green-stripes.jpg"
+    },
+    {
+      "id": 20,
+      "category": "Bedroom",
+      "name": "Organic Wood Bedroom",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Bedroom/organic-bedroom-wood-bed-skylight.jpg"
+    },
+    {
+      "id": 21,
+      "category": "Bedroom",
+      "name": "Quirky Plant Bedroom",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Bedroom/quirky-bedroom-lettuce-bed-plants.jpg"
+    },
+    {
+      "id": 22,
+      "category": "Fantasy Room",
+      "name": "Bohemian Arched Bedroom",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Fantasy%20Room/bohemian-bedroom-arched-windows-plants.jpg"
+    },
+    {
+      "id": 23,
+      "category": "Fantasy Room",
+      "name": "Bohemian City Living Room",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Fantasy%20Room/bohemian-living-room-lanterns-city-view-plants.jpg"
+    },
+    {
+      "id": 24,
+      "category": "Fantasy Room",
+      "name": "Cozy Forest Cottage",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Fantasy%20Room/cozy-living-room-forest-cottage-fireplace.jpg"
+    },
+    {
+      "id": 25,
+      "category": "Fantasy Room",
+      "name": "Cozy Reading Nook",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Fantasy%20Room/cozy-reading-nook-window-seat-bookshelves-nature.jpg"
+    },
+    {
+      "id": 26,
+      "category": "Fantasy Room",
+      "name": "Enchanted Hobbit Bedroom",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Fantasy%20Room/enchanted-bedroom-hobbit-style-round-window.jpg"
+    },
+    {
+      "id": 27,
+      "category": "Fantasy Room",
+      "name": "Fairytale Wooden Bedroom",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Fantasy%20Room/fairytale-bedroom-wooden-beams-stained-glass-flowers.jpg"
+    },
+    {
+      "id": 28,
+      "category": "Fantasy Room",
+      "name": "Playful Kids Room",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Fantasy%20Room/playful-kids-room-beanbags-pink-blue.jpg"
+    },
+    {
+      "id": 29,
+      "category": "Fantasy Room",
+      "name": "Rustic Attic Bedroom",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Fantasy%20Room/rustic-attic-bedroom-wooden-beams-rug.jpg"
+    },
+    {
+      "id": 30,
+      "category": "Fantasy Room",
+      "name": "Vintage Library Lounge",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Fantasy%20Room/vintage-library-chaise-lounge-flowers.jpg"
+    },
+    {
+      "id": 31,
+      "category": "Fantasy Room",
+      "name": "Whimsical Attic Bedroom",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Fantasy%20Room/whimsical-bedroom-attic-vines-large-window.jpg"
+    },
+    {
+      "id": 32,
+      "category": "Furnitures",
+      "name": "Blue Wood Sofa",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Furnitures/blue-sofa-wood-frame-geometric-wall.jpg"
+    },
+    {
+      "id": 33,
+      "category": "Furnitures",
+      "name": "Cafe Table Set",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Furnitures/cafe-table-grey-chairs-floral-decor.jpg"
+    },
+    {
+      "id": 34,
+      "category": "Furnitures",
+      "name": "Contemporary Beige Sofa",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Furnitures/contemporary-sofa-beige-fabric-dark-legs.jpg"
+    },
+    {
+      "id": 35,
+      "category": "Furnitures",
+      "name": "Danish Wood Chair",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Furnitures/danish-chair-natural-wood-round-pillow.jpg"
+    },
+    {
+      "id": 36,
+      "category": "Furnitures",
+      "name": "Wood Dining Set",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Furnitures/dining-room-wood-table-teal-chairs-sunlight.jpg"
+    },
+    {
+      "id": 37,
+      "category": "Furnitures",
+      "name": "Houseplant Wood Stand",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Furnitures/houseplant-interior-decor-light-wood-stand.jpg"
+    },
+    {
+      "id": 38,
+      "category": "Furnitures",
+      "name": "Neutral Fabric Sofa",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Furnitures/living-room-sofa-fabric-pillows-neutral.jpg"
+    },
+    {
+      "id": 39,
+      "category": "Furnitures",
+      "name": "Mid-Century Leather Chair",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Furnitures/mid-century-chair-wood-frame-leather-seat.jpg"
+    },
+    {
+      "id": 40,
+      "category": "Furnitures",
+      "name": "Minimalist Plant Corner",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Furnitures/minimalist-plant-corner-light-curtains.jpg"
+    },
+    {
+      "id": 41,
+      "category": "Furnitures",
+      "name": "Minimalist Grey Sofa",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Furnitures/minimalist-sofa-two-pillows-light-grey.jpg"
+    },
+    {
+      "id": 42,
+      "category": "Furnitures",
+      "name": "Modern Tufted Armchair",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Furnitures/modern-armchair-tufted-upholstery-dark-legs.jpg"
+    },
+    {
+      "id": 43,
+      "category": "Furnitures",
+      "name": "Modern Ivory Sofa",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Furnitures/modern-sofa-upholstered-wood-legs-ivory.jpg"
+    },
+    {
+      "id": 44,
+      "category": "Furnitures",
+      "name": "Scandinavian Blue Chair",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Furnitures/scandinavian-chair-light-wood-blue-seat.jpg"
+    },
+    {
+      "id": 45,
+      "category": "Furnitures",
+      "name": "Tall Potted Plant",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Furnitures/tall-potted-plant-white-pot-minimalist.jpg"
+    },
+    {
+      "id": 46,
+      "category": "Furnitures",
+      "name": "Wooden Curved Armchair",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Furnitures/wooden-armchair-black-seat-curved-back.jpg"
+    },
+    {
+      "id": 47,
+      "category": "Future Home",
+      "name": "Concrete Egg House",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Future%20Home/concrete-egg-house-desert-minimalist-interior.jpg"
+    },
+    {
+      "id": 48,
+      "category": "Future Home",
+      "name": "Neon Glass Building",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Future%20Home/contemporary-building-neon-lights-glass-facade.jpg"
+    },
+    {
+      "id": 49,
+      "category": "Future Home",
+      "name": "Curved Glass Home",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Future%20Home/curved-glass-home-neon-trim-purple-sky.jpg"
+    },
+    {
+      "id": 50,
+      "category": "Future Home",
+      "name": "Futuristic Neon Home",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Future%20Home/futuristic-home-curved-architecture-neon-lights.jpg"
+    },
+    {
+      "id": 51,
+      "category": "Future Home",
+      "name": "Futuristic Desert House",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Future%20Home/futuristic-house-curved-walls-desert-landscape.jpg"
+    },
+    {
+      "id": 52,
+      "category": "Future Home",
+      "name": "Futuristic Forest House",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Future%20Home/futuristic-house-organic-architecture-forest.jpg"
+    },
+    {
+      "id": 53,
+      "category": "Future Home",
+      "name": "Futuristic Curved Mansion",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Future%20Home/futuristic-mansion-curved-design-glowing-stairs.jpg"
+    },
+    {
+      "id": 54,
+      "category": "Future Home",
+      "name": "Minimalist Glass House",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Future%20Home/minimalist-glass-house-desert-reflective-pool.jpg"
+    },
+    {
+      "id": 55,
+      "category": "Future Home",
+      "name": "Geometric Green Building",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Future%20Home/modern-building-geometric-design-green-roofs.jpg"
+    },
+    {
+      "id": 56,
+      "category": "Future Home",
+      "name": "Modern Desert Home",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Future%20Home/modern-desert-home-glass-walls-neon-glow.jpg"
+    },
+    {
+      "id": 57,
+      "category": "Future Home",
+      "name": "Modern Glass Home",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Future%20Home/modern-glass-home-desert-neon-path.jpg"
+    },
+    {
+      "id": 58,
+      "category": "Future Home",
+      "name": "Organic Curved House",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Future%20Home/organic-modern-house-curved-walls-lit-interior.jpg"
+    },
+    {
+      "id": 59,
+      "category": "Future Home",
+      "name": "Smart Glass Home",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Future%20Home/smart-home-minimalist-interior-glass-walls.jpg"
+    },
+    {
+      "id": 60,
+      "category": "Future Home",
+      "name": "White Organic House",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Future%20Home/white-organic-house-modern-architecture-greenery.jpg"
+    },
+    {
+      "id": 61,
+      "category": "Garden",
+      "name": "Chinese Courtyard Garden",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Garden/chinese-courtyard-stone-pathway-lush-vegetation.jpg"
+    },
+    {
+      "id": 62,
+      "category": "Garden",
+      "name": "Cottage Garden Pergola",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Garden/cottage-garden-wooden-shed-pergola-dining.jpg"
+    },
+    {
+      "id": 63,
+      "category": "Garden",
+      "name": "English Garden Greenhouse",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Garden/english-garden-greenhouse-stone-path.jpg"
+    },
+    {
+      "id": 64,
+      "category": "Garden",
+      "name": "Garden Patio Dining",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Garden/garden-patio-umbrella-outdoor-dining-set.jpg"
+    },
+    {
+      "id": 65,
+      "category": "Garden",
+      "name": "Japanese Pond Garden",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Garden/japanese-garden-pond-stone-bridge-building.jpg"
+    },
+    {
+      "id": 66,
+      "category": "Garden",
+      "name": "Modern Garden Pavilion",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Garden/modern-garden-pavilion-bench-wood-accents.jpg"
+    },
+    {
+      "id": 67,
+      "category": "Garden",
+      "name": "Modern Garden Lawn",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Garden/modern-house-garden-lawn-sunlight.jpg"
+    },
+    {
+      "id": 68,
+      "category": "Garden",
+      "name": "Modern Water Garden",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Garden/modern-house-garden-lawn-water-feature.jpg"
+    },
+    {
+      "id": 69,
+      "category": "Garden",
+      "name": "Modern Sunset Garden",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Garden/modern-house-sunset-landscaping-inviting-porch.jpg"
+    },
+    {
+      "id": 70,
+      "category": "Garden",
+      "name": "Modern Ranch Landscape",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Garden/modern-ranch-home-landscaping-driveway.jpg"
+    },
+    {
+      "id": 71,
+      "category": "Garden",
+      "name": "Traditional Garden Lawn",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Garden/traditional-home-landscaped-garden-curved-lawn.jpg"
+    },
+    {
+      "id": 72,
+      "category": "Garden",
+      "name": "Picket Fence Garden",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Garden/traditional-house-white-picket-fence-blooming-flowers.jpg"
+    },
+    {
+      "id": 73,
+      "category": "Kitchen",
+      "name": "Blue Island Kitchen",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Kitchen/blue-kitchen-island-subway-tile-plants.jpg"
+    },
+    {
+      "id": 74,
+      "category": "Kitchen",
+      "name": "Cozy Open Kitchen",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Kitchen/cozy-kitchen-open-shelving-sunlight-plants.jpg"
+    },
+    {
+      "id": 75,
+      "category": "Kitchen",
+      "name": "Eclectic Dining Room",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Kitchen/eclectic-dining-room-striped-walls-view.jpg"
+    },
+    {
+      "id": 76,
+      "category": "Kitchen",
+      "name": "Farmhouse Island Kitchen",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Kitchen/farmhouse-kitchen-island-hood-range-windows.jpg"
+    },
+    {
+      "id": 77,
+      "category": "Kitchen",
+      "name": "Industrial Brick Kitchen",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Kitchen/industrial-kitchen-large-window-brick-wall.jpg"
+    },
+    {
+      "id": 78,
+      "category": "Kitchen",
+      "name": "Modern Beige Kitchen",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Kitchen/modern-kitchen-beige-cabinets-granite-countertop.jpg"
+    },
+    {
+      "id": 79,
+      "category": "Kitchen",
+      "name": "Modern Red Kitchen",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Kitchen/modern-kitchen-red-cabinets-sunlight-shadows.jpg"
+    },
+    {
+      "id": 80,
+      "category": "Kitchen",
+      "name": "Retro Mint Kitchen",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Kitchen/retro-kitchen-mint-cabinets-yellow-drawers.jpg"
+    },
+    {
+      "id": 81,
+      "category": "Kitchen",
+      "name": "Retro Red Kitchen",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Kitchen/retro-kitchen-red-stove-mint-cabinets-table.jpg"
+    },
+    {
+      "id": 82,
+      "category": "Kitchen",
+      "name": "Traditional Wood Kitchen",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Kitchen/traditional-kitchen-wood-cabinets-open-shelves.jpg"
+    },
+    {
+      "id": 83,
+      "category": "Living room",
+      "name": "Boho Living Room",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Living%20room/boho-living-room-futon-sofa-plant-decor.jpg"
+    },
+    {
+      "id": 84,
+      "category": "Living room",
+      "name": "Bright White Living Room",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Living%20room/bright-living-room-white-sofa-large-windows.jpg"
+    },
+    {
+      "id": 85,
+      "category": "Living room",
+      "name": "Japanese Living Room",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Living%20room/japanese-living-room-wood-chair-rattan-rug.jpg"
+    },
+    {
+      "id": 86,
+      "category": "Living room",
+      "name": "Luxury Marble Living Room",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Living%20room/luxury-living-room-marble-fireplace-wood-paneling.jpg"
+    },
+    {
+      "id": 87,
+      "category": "Living room",
+      "name": "Minimalist Blue Living Room",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Living%20room/minimalist-living-room-blue-sofa-wood-floor.jpg"
+    },
+    {
+      "id": 88,
+      "category": "Living room",
+      "name": "Minimalist Sectional Living Room",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Living%20room/minimalist-living-room-sectional-sofa-large-window.jpg"
+    },
+    {
+      "id": 89,
+      "category": "Living room",
+      "name": "Minimalist White Living Room",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Living%20room/minimalist-living-room-white-sofa-wood-floor.jpg"
+    },
+    {
+      "id": 90,
+      "category": "Living room",
+      "name": "Modern Blue Living Room",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Living%20room/modern-living-room-blue-accent-wall-large-window.jpg"
+    },
+    {
+      "id": 91,
+      "category": "Living room",
+      "name": "Modern Open Living Room",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Living%20room/modern-living-room-white-sofa-open-plan.jpg"
+    },
+    {
+      "id": 92,
+      "category": "Living room",
+      "name": "Open Concept Living Room",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Living%20room/open-concept-living-dining-concrete-wall.jpg"
+    },
+    {
+      "id": 93,
+      "category": "Material",
+      "name": "Beige Marble Texture",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Material/beige-marble-texture-veined-stone.jpg"
+    },
+    {
+      "id": 94,
+      "category": "Material",
+      "name": "Brushed Metal Texture",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Material/brushed-metal-texture-silver-sheen.jpg"
+    },
+    {
+      "id": 95,
+      "category": "Material",
+      "name": "Dark Wood Grain",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Material/dark-wood-grain-texture-natural-pattern.jpg"
+    },
+    {
+      "id": 96,
+      "category": "Material",
+      "name": "Modern Stone Tile",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Material/modern-stone-tile-texture-beige-grey.jpg"
+    },
+    {
+      "id": 97,
+      "category": "Material",
+      "name": "Rustic Brick Texture",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Material/rustic-brick-wall-texture-red-brown.jpg"
+    },
+    {
+      "id": 98,
+      "category": "Material",
+      "name": "Textured Glass Panel",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Material/textured-glass-panel-background-geometric.jpg"
+    },
+    {
+      "id": 99,
+      "category": "Material",
+      "name": "White Marble Texture",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Material/white-marble-slab-texture-gold-veining.jpg"
+    },
+    {
+      "id": 100,
+      "category": "Modern Outside",
+      "name": "Contemporary Brick House",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Modern%20Outside/contemporary-house-brick-wood-accents-daylight.jpg"
+    },
+    {
+      "id": 101,
+      "category": "Modern Outside",
+      "name": "Contemporary Concrete House",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Modern%20Outside/contemporary-house-exterior-concrete-pattern-outdoor-living.jpg"
+    },
+    {
+      "id": 102,
+      "category": "Modern Outside",
+      "name": "Contemporary Glass Mansion",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Modern%20Outside/contemporary-mansion-glass-garage-doors-stone.jpg"
+    },
+    {
+      "id": 103,
+      "category": "Modern Outside",
+      "name": "Modern Stone Home",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Modern%20Outside/modern-home-stone-wood-exterior-sunset.jpg"
+    },
+    {
+      "id": 104,
+      "category": "Modern Outside",
+      "name": "Modern Wood Entrance",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Modern%20Outside/modern-house-entrance-wood-accents-lighting.jpg"
+    },
+    {
+      "id": 105,
+      "category": "Modern Outside",
+      "name": "Modern Glass Entrance",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Modern%20Outside/modern-house-entrance-wood-door-glass-walls.jpg"
+    },
+    {
+      "id": 106,
+      "category": "Modern Outside",
+      "name": "Two-Tone Modern House",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Modern%20Outside/modern-house-exterior-two-tone-siding-garage-door.jpg"
+    },
+    {
+      "id": 107,
+      "category": "Modern Outside",
+      "name": "Modern Night Facade",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Modern%20Outside/modern-house-facade-wood-accents-night-lighting.jpg"
+    },
+    {
+      "id": 108,
+      "category": "Modern Outside",
+      "name": "Modern Glass House",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Modern%20Outside/modern-house-glass-walls-lush-garden.jpg"
+    },
+    {
+      "id": 109,
+      "category": "Patio",
+      "name": "Patio Design 01",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Patio/1db70e1b5e3f807fcf9df4d4c20c654d.jpg"
+    },
+    {
+      "id": 110,
+      "category": "Patio",
+      "name": "Patio Design 02",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Patio/1e13c1b07a7eb06fa2fca534eaa8b729.jpg"
+    },
+    {
+      "id": 111,
+      "category": "Patio",
+      "name": "Patio Design 03",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Patio/2dc47ce6d2686d72823855c0f04e9351.jpg"
+    },
+    {
+      "id": 112,
+      "category": "Patio",
+      "name": "Patio Design 04",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Patio/3151c0f779aefc5aca8eb3b8000a2446.jpg"
+    },
+    {
+      "id": 113,
+      "category": "Patio",
+      "name": "Patio Design 05",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Patio/3b7d117ba445a5cdef2682da157a300a.jpg"
+    },
+    {
+      "id": 114,
+      "category": "Patio",
+      "name": "Patio Design 06",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Patio/4773e432ba724a04da0c13b426883d8e.jpg"
+    },
+    {
+      "id": 115,
+      "category": "Patio",
+      "name": "Patio Design 07",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Patio/4ea7be12a138eea4699b56609990391a.jpg"
+    },
+    {
+      "id": 116,
+      "category": "Patio",
+      "name": "Patio Design 08",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Patio/6720283c3d6892b1a56d9cba97fe8a44.jpg"
+    },
+    {
+      "id": 117,
+      "category": "Patio",
+      "name": "Patio Design 09",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Patio/9c7db5b1ed13a81a482201b7dd2ffef4.jpg"
+    },
+    {
+      "id": 118,
+      "category": "Patio",
+      "name": "Patio Design 10",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Patio/b59923eefeb1760fe4cab4709cb93248.jpg"
+    },
+    {
+      "id": 119,
+      "category": "Patio",
+      "name": "Patio Design 11",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Patio/cee63a86155065476dc14ecdc0681e18.jpg"
+    },
+    {
+      "id": 120,
+      "category": "Patio",
+      "name": "Patio Design 12",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Patio/d8faec41b8b24b1a7e9df0cceb2716c9.jpg"
+    },
+    {
+      "id": 121,
+      "category": "Patio",
+      "name": "Patio Design 13",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Patio/download.png"
+    },
+    {
+      "id": 122,
+      "category": "Swimming Pool",
+      "name": "Contemporary Pool House",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Swimming%20Pool/contemporary-pool-house-clean-lines-grass.jpg"
+    },
+    {
+      "id": 123,
+      "category": "Swimming Pool",
+      "name": "Indoor Courtyard Pool",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Swimming%20Pool/indoor-pool-courtyard-natural-light-stone.jpg"
+    },
+    {
+      "id": 124,
+      "category": "Swimming Pool",
+      "name": "Indoor Skylight Pool",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Swimming%20Pool/indoor-pool-house-skylight-wood-interior.jpg"
+    },
+    {
+      "id": 125,
+      "category": "Swimming Pool",
+      "name": "Luxury Indoor Pool",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Swimming%20Pool/luxury-indoor-pool-natural-light-wood-accents.jpg"
+    },
+    {
+      "id": 126,
+      "category": "Swimming Pool",
+      "name": "Mediterranean Villa Pool",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Swimming%20Pool/mediterranean-villa-pool-courtyard-gardens.jpg"
+    },
+    {
+      "id": 127,
+      "category": "Swimming Pool",
+      "name": "Modern Pool House",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Swimming%20Pool/modern-pool-house-minimalist-design-glass.jpg"
+    },
+    {
+      "id": 128,
+      "category": "Swimming Pool",
+      "name": "Modern Rooftop Pool",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Swimming%20Pool/modern-rooftop-pool-city-view-lounge.jpg"
+    },
+    {
+      "id": 129,
+      "category": "Swimming Pool",
+      "name": "Rooftop Waterfall Pool",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Swimming%20Pool/rooftop-pool-modern-building-waterfall-feature.jpg"
+    },
+    {
+      "id": 130,
+      "category": "Swimming Pool",
+      "name": "Rustic Outdoor Pool",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Swimming%20Pool/rustic-outdoor-pool-cabana-hedges.jpg"
+    },
+    {
+      "id": 131,
+      "category": "Swimming Pool",
+      "name": "Tropical Garden Pool",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Swimming%20Pool/tropical-garden-pool-deck-gazebo.jpg"
+    },
+    {
+      "id": 132,
+      "category": "Swimming Pool",
+      "name": "Tropical Villa Pool",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Swimming%20Pool/tropical-villa-pool-deck-sliding-doors.jpg"
+    },
+    {
+      "id": 133,
+      "category": "Window decore",
+      "name": "Cozy Window Seat",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Window%20decore/cozy-window-seat-colorful-pillows-bookshelf.jpg"
+    },
+    {
+      "id": 134,
+      "category": "Window decore",
+      "name": "Futuristic Glass Balcony",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Window%20decore/futuristic-house-curved-glass-balcony-lake-view.jpg"
+    },
+    {
+      "id": 135,
+      "category": "Window decore",
+      "name": "Minimalist Sea-View Daybed",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Window%20decore/minimalist-daybed-sea-view-arched-window.jpg"
+    },
+    {
+      "id": 136,
+      "category": "Window decore",
+      "name": "Minimalist Arched Window",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Window%20decore/minimalist-living-room-plants-arched-window.jpg"
+    },
+    {
+      "id": 137,
+      "category": "Window decore",
+      "name": "Modern Hotel Desk",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Window%20decore/modern-hotel-desk-coffee-station-vintage-phone.jpg"
+    },
+    {
+      "id": 138,
+      "category": "Window decore",
+      "name": "Pink Nursery Balcony",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Window%20decore/nursery-crib-wicker-chair-pink-walls-balcony.jpg"
+    },
+    {
+      "id": 139,
+      "category": "Window decore",
+      "name": "Scandinavian Desk Nook",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Window%20decore/scandinavian-desk-plants-natural-light-window.jpg"
+    },
+    {
+      "id": 140,
+      "category": "Window decore",
+      "name": "Traditional Window Seat",
+      "url": "https://raw.githubusercontent.com/levi0175/App837-AI-homedecor/main/Window%20decore/traditional-window-seat-pillows-garden-view.jpg"
+    }
+  ]
+}
